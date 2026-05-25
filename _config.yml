@@ -3,7 +3,7 @@
 title: Katrina Kolesnikova
 description: Decatur High School Class of 2030
 
-baseurl: katkolesnikovagithub.io #name of GitHub repository
+baseurl: #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 

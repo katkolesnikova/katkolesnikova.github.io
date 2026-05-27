@@ -9,9 +9,9 @@ title: Computer Science Projects
     Link to project in Github [here](https://github.com/katkolesnikova/EMP-projects)
 
     Link to project writeup:
-    <iframe src="/Users/kat/Downloads/Oblivious_Stack.pdf" width="100%" height="600px">
+    <iframe src="/Users/kat/code/gradfolio/katkolesnikova.github.io/Oblivious_Stack.pdf" width="100%" height="600px">
         This browser does not support PDFs. 
-        a href="/Users/kat/Downloads/Oblivious_Stack.pdf">Download the PDF</a>.
+        a href="/Users/kat/code/gradfolio/katkolesnikova.github.io/Oblivious_Stack.pdf">Download the PDF</a>.
     </iframe>
 
 - Assembly projects

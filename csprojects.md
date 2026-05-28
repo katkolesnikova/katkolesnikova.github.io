@@ -8,7 +8,7 @@ title: Computer Science Projects
     
     Link to project in Github [here](https://github.com/katkolesnikova/EMP-projects)
 
-    Link to project writeup [here](https://github.com/katkolesnikova/obstackpaper)
+    Link to project writeup [here](https://katkolesnikova.github.io/obstackpaper)
     
 - Assembly projects
 - What else?

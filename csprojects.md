@@ -11,9 +11,9 @@ A naive MPC implementation of stack requires access time linear in the
 maximum size of the stack N (i.e. entire encrypted stack container must
 be scanned). We implement a much better approach, with access cost O(log N ). Read the write-up for more information.
     
-    Link to project in Github [here](https://github.com/katkolesnikova/EMP-projects)
+Link to project in Github [here](https://github.com/katkolesnikova/EMP-projects)
 
-    Link to project writeup [here](https://katkolesnikova.github.io/obstackpaper)
+Link to project writeup [here](https://katkolesnikova.github.io/obstackpaper)
     
 - Web server, with writing and reading functionality, implemented in Assembly. Link to Github [here](https://github.com/katkolesnikova/Assembly-Web-Server)
 - What else?

@@ -8,7 +8,7 @@ title: Computer Science Projects
     
     Link to project in Github [here](https://github.com/katkolesnikova/EMP-projects)
 
-    Link to project writeup:
-    <iframe src="/assets/Oblivious_Stack.pdf" width="100%" height="600px"></iframe>
+    Link to project writeup [here](https://github.com/katkolesnikova/obstackpaper)
+    
 - Assembly projects
 - What else?

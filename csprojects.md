@@ -15,5 +15,5 @@ Link to project in Github [here](https://github.com/katkolesnikova/EMP-projects)
 
 Link to project writeup [here](https://katkolesnikova.github.io/obstackpaper)
     
-- Web server, with writing and reading functionality, implemented in Assembly. Link to Github [here](https://github.com/katkolesnikova/Assembly-Web-Server)
+- Web server implemented in assembly. This webserver can accept multiple connections at a time, as it has a forking process, and it supports both reading and writing to files. Code written in 2024.  Link to Github [here](https://github.com/katkolesnikova/Assembly-Web-Server)
 - What else?

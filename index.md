@@ -13,12 +13,8 @@ This website is a work in progress! Please check back for updates.
 
 Grade: 9th
 
-Age: 14
-
 School: Decatur High School
 
 Interests: Computer science, music, engineering, physics
-
-TEST TEST TEST TEST 123
 
 
